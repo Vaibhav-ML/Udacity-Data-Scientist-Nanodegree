@@ -4,11 +4,7 @@ To classify and localize the cars, pedestrians and cyclists in camera input feed
 
 # Dataset
 
-## Dataset Analysis
-
 The dataset contains high resolution traffic images with three classes : vehicles, pedestrains and cyclists.
-
-The class distribution is roughly : 
 
 # Config
 
