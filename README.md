@@ -1,10 +1,14 @@
 # Object Detection in an Urban Environment
 # Goal
-To classify and localize the cars, pedestrians and cyclists in camera input feed.
+To classify and localize the cars, pedestrians and cyclists in camera input feed. This is useful for self-driving cars and other road safety systems.
 
-# Data
+# Dataset
 
-For this project, we will be using data from the Waymo Open dataset.
+## Dataset Analysis
+
+The dataset contains high resolution traffic images with three classes : vehicles, pedestrains and cyclists.
+
+The class distribution is roughly : 
 
 # Config
 
