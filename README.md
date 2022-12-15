@@ -1,4 +1,3 @@
-# Udacity-Data-Scientist-Nanodegree
 # Object Detection in an Urban Environment
 # Goal
 To classify and localize the cars, pedestrians and cyclists in camera input feed.
