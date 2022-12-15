@@ -57,7 +57,7 @@ To monitor the training, you can launch a tensorboard instance by running python
 
 python experiments/model_main_tf2.py --model_dir=experiments/reference/ --pipeline_config_path=experiments/reference/pipeline_new.config --checkpoint_dir=experiments/reference/
 
-# Creatin Animation
+# Creating Animation
 
 Export the trained model
 Modify the arguments of the following function to adjust it to your models:
